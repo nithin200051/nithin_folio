@@ -1,0 +1,15 @@
+#heading-nithin:hover{
+    color: crimson;
+}
+#navig:hover{ 
+    background-color: crimson;
+}
+#about_me_head:hover{
+    color: crimson;
+}
+#service_card:hover{ 
+    background-color: crimson;
+}
+.service_bg{
+    background-color: red;
+}
